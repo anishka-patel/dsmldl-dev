@@ -1,3 +1,9 @@
+# My Additions
+input/
+Input/
+INPUT/
+*.data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
